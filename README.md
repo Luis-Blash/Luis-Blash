@@ -12,7 +12,7 @@ Principalmente desarrollo en Python, con Flask y Django.
       👀 Estoy interesando en crear proyectos web.
   </li>
     <li>
-      🌱 Estoy estudiando actualmente Frontend, como Framework como Angular y React.
+      🌱 Estoy estudiando actualmente Frontend, con framework como Angular y React.
   </li>
   </ul>
   
