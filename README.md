@@ -1,10 +1,23 @@
 # Bienvenido a mi Github
 > ## En constante aprendizaje y practica.
----
-- 👋 Hola, mi nombre es Luis, mucho gusto, soy desarrollador backend, amante por los videojuegos y el desarrollo web. 
+
+
+<div>
+  <img align="right" width="280" height="200" src="https://github.com/Luis-Blash/Luis-Blash/blob/main/recursos/yo.png"></img>
+  <ul align="left">
+    <li>👋 Hola, mi nombre es Luis. Desarrollador backend, amante por los videojuegos y el desarrollo web. 
 Principalmente desarrollo en Python, con Flask y Django.
-- 👀 Estoy interesando en crear proyectos web.
-- 🌱 Estoy estudiando actualmente Frontend, como Framework como Angular y React.
+  </li>
+    <li>
+      👀 Estoy interesando en crear proyectos web.
+  </li>
+    <li>
+      🌱 Estoy estudiando actualmente Frontend, como Framework como Angular y React.
+  </li>
+  </ul>
+  
+</div>
+
 ## Tecnologias
 
 ## Contactame
