@@ -22,10 +22,10 @@ Principalmente desarrollo en Python, con Flask y Django.
 ### Lenguajes
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=javascript&logoColor=000&labelColor=F7DF1E&label=JavaScript)
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=python&logoColor=fff&labelColor=3776AB&label=Python)
-
-### Tecnologias
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=html5&logoColor=fff&labelColor=E34F26&label=HTML)
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=css3&logoColor=fff&labelColor=1572B6&label=CSS)
+
+### Tecnologias
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=docker&logoColor=fff&labelColor=2496ED&label=Docker)
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=react&logoColor=000&labelColor=61DAFB&label=React)
 ![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=flask&logoColor=fff&labelColor=000000&label=Flask)
