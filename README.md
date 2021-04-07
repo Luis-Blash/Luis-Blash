@@ -36,5 +36,8 @@ Principalmente desarrollo en Python, con Flask y Django.
 
 ## Contactame
 [![Luisblash3g](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=twitter&logoColor=fff&labelColor=1DA1F2&label=LuisBlash)](https://twitter.com/luisblash3)
+[![miportafolio](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=github&logoColor=000&labelColor=ccc&label=Mi_portafolio)](https://luis-blash.github.io/miportafolio)
+[![miportafolio](https://img.shields.io/twitter/url/http/shields.io.svg?color=fff&style=plastic&logo=linkedin&logoColor=0a66c2&labelColor=BCE6FF&label=Linkedin)](https://www.linkedin.com/in/luis-enrique-ocampo-gonzalez-769b5a20a)
+
 
 Mi correo: *luisocampo@gmail.com*
